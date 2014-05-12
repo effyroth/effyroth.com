@@ -1,0 +1,9 @@
+[submodule "public/2048"]
+	path = public/2048
+	url = git@github.com:effyroth/2048.git
+[submodule "public/diablo-js"]
+	path = public/diablo-js
+	url = git@github.com:effyroth/diablo-js.git
+[submodule "public/BrowserQuest"]
+	path = public/BrowserQuest
+	url = git@github.com:effyroth/BrowserQuest.git
